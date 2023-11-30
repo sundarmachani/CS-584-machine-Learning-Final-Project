@@ -15,3 +15,7 @@ Yeshwanth Vemula (A20427054) yvemula@hawk.iit.edu
 ### Code:
 
 > The code is available in Jupyter notebook inside "notebook" folder.
+
+### report:
+
+> report is added in main Directory.
